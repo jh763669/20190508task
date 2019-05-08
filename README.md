@@ -1,4 +1,4 @@
-# Inwk6312-Fall - 2018 - Sample Open Book Quiz!
+# Inwk6312-Summer - 2019 - Open Book Quiz!
 
 
   - You have to clone this repo to your account, you should be seeing this on your account, if someone elses name is listed call an instructor for help.
@@ -7,7 +7,8 @@
   - Don't forget to add user name and email on git. 
   - You are allowed to use any form of searching and documentation reading and book reading is promoted
   - Read the API
-  - You cannot talk to your other people or ask for help!
+  - Make a commit at 12:30. You have till end of day for final submission. 
+
 
 # Card Decks!
 
